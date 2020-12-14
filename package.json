@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/hakovala/mocha-notifier-reporter",
   "dependencies": {
-    "node-notifier": "^3.4.1",
+    "node-notifier": "^9.0.0",
     "printf": "^0.2.0"
   }
 }
